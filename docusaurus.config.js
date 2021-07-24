@@ -4,7 +4,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 module.exports = {
   title: 'Brent Gruber Docs',
-  tagline: 'I'm just here so I don't get fined',
+  tagline: 'Im just here so I dont get fined',
   url: 'https://docs.brentgruber.com',
   baseUrl: '/',
   onBrokenLinks: 'throw',
